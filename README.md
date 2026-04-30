@@ -1,5 +1,3 @@
-# Hi, I’m James
-
 Curious builder focused on data, machine learning, AI, and automation.
 
 I like taking messy, real-world problems and turning them into practical systems:
