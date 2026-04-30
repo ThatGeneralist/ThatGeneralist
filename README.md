@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m James
 
-<!--
-**ThatGeneralist/ThatGeneralist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious builder focused on data, machine learning, AI, and automation.
 
-Here are some ideas to get you started:
+I like taking messy, real-world problems and turning them into practical systems:
+ETL pipelines, PostgreSQL/PostGIS workflows, FastAPI services, and AI-assisted tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- Building an AI-first data coding framework
+- Cleaning up my repositories for public release (some good stuff coming...)
+- Sharing more of my work across data engineering, ML, AI, and software development
+
+## What I enjoy
+- Learning new tools and workflows
+- Engineering systems end-to-end
+- Building useful internal products, not just demos
+
+## Core stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Featured work
+- Coming Soon...
