@@ -1,6 +1,4 @@
-Curious builder focused on data, machine learning, AI, and automation.
-
-I like taking messy, real-world problems and turning them into practical systems:
+Generalist engineer. I like learning unfamiliar systems, connecting ideas across domains, and turning messy real-world problems into practical software:
 ETL pipelines, PostgreSQL/PostGIS workflows, FastAPI services, local AI tools, and data-driven applications.
 
 ## What I’m working on
