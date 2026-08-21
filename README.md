@@ -32,14 +32,15 @@ ETL pipelines, PostgreSQL/PostGIS workflows, FastAPI services, local AI tools, a
 ## Featured work
 _All of the projects below are in progress and not publicly available yet._
 
-- Coming soon: **AI-assisted data coding framework for social science research**
-  - Building a first-pass coding harness to support research workflows and structured analysis.
+- Coming soon: **OpenXtract: End to end Self-Hosted Document Intelligence application**
+  - Specify output data structure, ingest any file type, review AI-generated outputs with source document citations.
+  - Includes flagging model, schema and prompt versioning, inter-rater reliability, case sampling, output evaluation, and more.
+ 
+- Coming soon: **Declarative data lake management framework**
+  - Designed to tame years of messy files, schema drift, and inconsistent formats into analysis-ready data.
 
 - Coming soon: **Self-hostable personal finance application**
-  - Uses AI, Azure Document Intelligence, and Plaid for item-level expense tracking from receipts and transaction data.
-
-- Coming soon: **Deterministic data lake management framework**
-  - Designed to tame years of messy files, schema drift, and inconsistent formats into analysis-ready data.
+  - Uses AI, and Plaid integration for item-level expense tracking from receipt images and transaction data. Provides more granular expense calculations down to the types of items being purchased.
 
 
 ## Other Interests
